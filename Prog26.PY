@@ -15,3 +15,4 @@ match operador:
     case 4:
         print(f"Resultado: {valor1 / valor2}")
 print("teste de commit")
+print("teste de push pelo vscode")

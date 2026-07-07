@@ -5,3 +5,6 @@ if v1 > v2:
 else:
     print("Falso")    
 print ("Teste de PULL")
+print("teste de push pelo vscode")
+print("teste de push pelo vscode2")
+print("teste de push pelo vscode3")
