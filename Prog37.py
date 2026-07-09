@@ -5,3 +5,4 @@ for i in range(5):
         print(f"{valor} é par")
     else:
         print(f"{valor} é ímpar")  
+print ("teste de push pelo github")
